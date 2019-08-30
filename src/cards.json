@@ -1,60 +1,72 @@
 [{
     "id": 1,
+    "name": "Barcelona",
     "image": "./assets/images/Barcelona.jpg",
     "clicked": false
 },
 {
     "id": 2,
-    "image": "./assets/images/Berlin.png",
+    "name": "Berlin",
+    "image": "./assets/images/Berlin.jpg",
     "clicked": false
 },
 {
     "id": 3,
+    "name": "Bulgaria",
     "image": "./assets/images/Bulgaria.jpg",
     "clicked": false
 },
 {
     "id": 4,
+    "name": "Chicago World's Fair",
     "image": "./assets/images/Chicago-Worlds-Fair.jpg",
     "clicked": false
 },
 {
     "id": 5,
-    "image": "./assets/images/detriot.jpg",
+    "name": "Detroit",
+    "image": "./assets/images/detroit.jpg",
     "clicked": false
 },
 {
     "id": 6,
+    "name": "Egypt",
     "image": "./assets/images/Egypt.jpg",
     "clicked": false
 },
 {
     "id": 7,
+    "name": "Japan",
     "image": "./assets/images/Japan.jpg",
     "clicked": false
 },
 {
     "id": 8,
+    "name": "London",
     "image": "./assets/images/London.jpg",
     "clicked": false
 },
 {
     "id": 9,
+    "name": "Melbourne",
     "image": "./assets/images/Melbourne.jpg",
     "clicked": false
 },
 {
     "id": 10,
+    "name": "Metropolis",
     "image": "./assets/images/metropolis.jpg",
     "clicked": false
 },
 {
     "id": 11,
+    "name": "New York World's Fair",
     "image": "./assets/images/NY-Worlds-Fair.jpg",
     "clicked": false
 },
 {
     "id": 12,
+    "name": "Roma",
     "image": "./assets/images/Roma.jpg",
     "clicked": false
 }
