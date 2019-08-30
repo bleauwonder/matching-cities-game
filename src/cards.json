@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "image": "./assets/images/Barcelona.jpg",
+    "clicked": false
+},
+{
+    "id": 2,
+    "image": "./assets/images/Berlin.png",
+    "clicked": false
+},
+{
+    "id": 3,
+    "image": "./assets/images/Bulgaria.jpg",
+    "clicked": false
+},
+{
+    "id": 4,
+    "image": "./assets/images/Chicago-Worlds-Fair.jpg",
+    "clicked": false
+},
+{
+    "id": 5,
+    "image": "./assets/images/detriot.jpg",
+    "clicked": false
+},
+{
+    "id": 6,
+    "image": "./assets/images/Egypt.jpg",
+    "clicked": false
+},
+{
+    "id": 7,
+    "image": "./assets/images/Japan.jpg",
+    "clicked": false
+},
+{
+    "id": 8,
+    "image": "./assets/images/London.jpg",
+    "clicked": false
+},
+{
+    "id": 9,
+    "image": "./assets/images/Melbourne.jpg",
+    "clicked": false
+},
+{
+    "id": 10,
+    "image": "./assets/images/metropolis.jpg",
+    "clicked": false
+},
+{
+    "id": 11,
+    "image": "./assets/images/NY-Worlds-Fair.jpg",
+    "clicked": false
+},
+{
+    "id": 12,
+    "image": "./assets/images/Roma.jpg",
+    "clicked": false
+}
+]

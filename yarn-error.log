@@ -1,0 +1,66 @@
+Arguments: 
+  /usr/local/Cellar/node/11.9.0/bin/node /usr/local/bin/yarn check --integrity
+
+PATH: 
+  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.17.3
+
+Node version: 
+  10.16.3
+
+Platform: 
+  darwin x64
+
+Trace: 
+  TypeError: Cannot read property 'react@^16.9.0' of undefined
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:47672:25
+      at Array.filter (<anonymous>)
+      at InstallationIntegrityChecker.<anonymous> (/usr/local/lib/node_modules/yarn/lib/cli.js:47671:38)
+      at Generator.next (<anonymous>)
+      at step (/usr/local/lib/node_modules/yarn/lib/cli.js:304:30)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:322:14
+      at new Promise (<anonymous>)
+      at new F (/usr/local/lib/node_modules/yarn/lib/cli.js:5296:28)
+      at InstallationIntegrityChecker.<anonymous> (/usr/local/lib/node_modules/yarn/lib/cli.js:301:12)
+      at InstallationIntegrityChecker.check (/usr/local/lib/node_modules/yarn/lib/cli.js:47720:21)
+
+npm manifest: 
+  {
+    "name": "matching-game",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "react": "^16.9.0",
+      "react-dom": "^16.9.0",
+      "react-scripts": "3.1.1"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      "extends": "react-app"
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
