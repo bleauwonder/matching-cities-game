@@ -1,7 +1,5 @@
 import React, { Component } from "react";
 import Cities from "./components/Cities";
-// import Wrapper from "./components/Wrapper"
-// import Score from "./components/Score";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
@@ -12,6 +10,7 @@ class App extends Component {
   state = {
     cards: cards,
     pickedCity: [],
+    score: 0,
     topScore: 0,
     goal: 12,
     message: "Can you remember what you've clicked?"
@@ -108,45 +107,3 @@ render() {
 }
 
 export default App;
-
-
-/* <Score total={this.state.score}
-goal={12}
-status={this.state.status}
-/>
-<Wrapper>
-{this.state.cards.map(city => (
-<Cities
-shuffleScoreCard={this.shuffleCard}
-id={city.id}
-key={city.id}
-image={city.image}
-/>
-))}
-
-</Wrapper>
-</div> */
-
-// Shuffle the cards
-// shuffleCard = id => {
-//   let pickedCity = this.state.pickedCity;
-
-//   if(pickedCity.includes(id)){
-//     this.setState({ pickedCity: [], score: 0, status: "Already Clicked! Start Over"});
-//     return;
-//   }else{
-//     pickedCity.push(id)
-
-//     if(pickedCity.length === 12){
-//       this.setState({ score: 12, status: "You Won! Great Memory! Play Again?", pickedCity: []});
-//       return;
-//     }
-
-//   this.setState({ cards, pickedCity, score: pickedCity.length, status: " " });
-  
-//   for (let i = cards.length - 1; i > 0; i--) {
-//     let j = Math.floor(Math.random() * (i + 1));
-//     [cards[i], cards[j]] = [cards[j], cards[i]];
-//     }
-//   }
-// }

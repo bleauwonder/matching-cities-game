@@ -6,7 +6,7 @@ function Navbar({ message, score, topScore }) {
       <ul className="row center list-inline m-0 nav-fill nav-height nav-width">
         <li className="col list-inline-item my-auto nav-calc-font p-0 m-0 text-center">
           <a className="nav-calc-font navbar-brand p-3 m-0" href="/">
-            ART DECO MEMORY GAME
+            <em>Art Deco Memory Game</em>
           </a>
         </li>
         <li
@@ -16,7 +16,7 @@ function Navbar({ message, score, topScore }) {
           {message}
         </li>
         <li className="nav-calc-font navbar-brand p-3 m-0">
-          CURRENT SCORE: {score} | TOP SCORE: {topScore}
+          Current Score: {score} | Top Score: {topScore}
         </li>
       </ul>
     </nav>

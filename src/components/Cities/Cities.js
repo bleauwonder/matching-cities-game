@@ -1,6 +1,4 @@
 import React from "react";
-import "./cities.css";
-
 
 function Cities({ clickHandler, id, image, name }) {
   return (

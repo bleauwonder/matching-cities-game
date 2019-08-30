@@ -32,7 +32,7 @@
 }
 
 .navbar-brand {
-  color: #034753;
+  color: #30d0ec;
   font-family: 'Gayathri', sans-serif;
 }
 
@@ -46,13 +46,13 @@
 }
 
 .colors {
-  background-color: #055f2a;
-  color: #11773b;
-  text-shadow: 5px 5px 5px #000;
+  background-color: #06b3d1;
+  color: #06b3d1;
+  text-shadow: 2px 2px 2px rgb(6, 155, 192);
 }
 
 .colors a {
-  color: #067275;
+  color: #067aaf;
 }
 
 .tp-text {
@@ -83,7 +83,6 @@
 
 .bg-nav {
   background: #06b3d1;
-  background: #10cef0;
   background: -webkit-linear-gradient(to right, #042c33, #16d2f3);
   background: linear-gradient(to right, #042c33, #16d2f3);
 }
@@ -93,8 +92,11 @@
   height: 50px;
   left: 0;
   width: 100%;
+  font-family: 'Gayathri', sans-serif;
+  align-content: center;
   text-align: center;
-  font-size: 10px;
+  margin-top: 20px;
+  font-size: 15px;
   background: #10cef0;
   background: -webkit-linear-gradient(to right, #042c33, #16d2f3);
   background: linear-gradient(to right, #042c33, #16d2f3);
