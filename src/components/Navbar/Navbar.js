@@ -16,7 +16,7 @@ function Navbar({ message, score, topScore }) {
           {message}
         </li>
         <li className="nav-calc-font navbar-brand p-3 m-0">
-          Current Score: {score} | Top Score: {topScore}
+          Travel Points: {score} | Top Travel: {topScore}
         </li>
       </ul>
     </nav>
