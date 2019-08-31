@@ -2,7 +2,7 @@
 
 ## Deployed on Heroku: https://cryptic-everglades-73436.herokuapp.com/
 -----------------------------------------------------------------------------
-
+![Art Deco Memory Game screenshot](./public/assets/images/ArtDeco-game.png)
 ----------------------------------------------------------------------------------------
 ## This game will test your memory skills and patience to play until you reach 12 travel points!
 
