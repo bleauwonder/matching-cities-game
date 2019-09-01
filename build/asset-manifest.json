@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d4d8cee.chunk.css",
-    "main.js": "/static/js/main.7e012828.chunk.js",
-    "main.js.map": "/static/js/main.7e012828.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.4f37872b.js",
-    "runtime~main.js.map": "/static/js/runtime~main.4f37872b.js.map",
-    "static/js/2.1e371dae.chunk.js": "/static/js/2.1e371dae.chunk.js",
-    "static/js/2.1e371dae.chunk.js.map": "/static/js/2.1e371dae.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8af4da27b9fc0cb5c802915700c1cd31.js": "/precache-manifest.8af4da27b9fc0cb5c802915700c1cd31.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.6d4d8cee.chunk.css.map": "/static/css/main.6d4d8cee.chunk.css.map"
+    "main.css": "/matching-cities-game/static/css/main.6d4d8cee.chunk.css",
+    "main.js": "/matching-cities-game/static/js/main.7e012828.chunk.js",
+    "main.js.map": "/matching-cities-game/static/js/main.7e012828.chunk.js.map",
+    "runtime~main.js": "/matching-cities-game/static/js/runtime~main.44506b05.js",
+    "runtime~main.js.map": "/matching-cities-game/static/js/runtime~main.44506b05.js.map",
+    "static/js/2.1e371dae.chunk.js": "/matching-cities-game/static/js/2.1e371dae.chunk.js",
+    "static/js/2.1e371dae.chunk.js.map": "/matching-cities-game/static/js/2.1e371dae.chunk.js.map",
+    "index.html": "/matching-cities-game/index.html",
+    "precache-manifest.d00f92a1c06026e854b1c99b95e448b5.js": "/matching-cities-game/precache-manifest.d00f92a1c06026e854b1c99b95e448b5.js",
+    "service-worker.js": "/matching-cities-game/service-worker.js",
+    "static/css/main.6d4d8cee.chunk.css.map": "/matching-cities-game/static/css/main.6d4d8cee.chunk.css.map"
   }
 }
