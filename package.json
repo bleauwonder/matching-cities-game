@@ -4,13 +4,17 @@
   "private": true,
   "homepage": "https://bleauwonder.github.io/matching-cities-game",
   "dependencies": {
+    "acorn": "^7.3.1",
     "gh-pages": "^2.1.1",
+    "handlebars": "^4.7.6",
     "lodash": "^4.17.19",
     "minimist": "^1.2.5",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1",
-    "serve": "^11.1.0"
+    "react-scripts": "^3.4.1",
+    "serialize-javascript": "^4.0.0",
+    "serve": "^11.3.2",
+    "websocket-extensions": "^0.1.4"
   },
   "scripts": {
     "predeploy": "yarn run build",
