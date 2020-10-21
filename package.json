@@ -9,6 +9,7 @@
     "handlebars": "^4.7.6",
     "lodash": "^4.17.19",
     "minimist": "^1.2.3",
+    "object-path": "^0.11.5",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "^3.4.3",
